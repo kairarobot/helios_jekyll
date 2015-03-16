@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Post 1
+title: Post 7
 desc: This is a sample post that is added under the "desc" part of the YAML.
-img: pic01.jpg
+img: pic02.jpg
 categories: carousel
 ---
