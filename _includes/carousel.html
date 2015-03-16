@@ -1,16 +1,19 @@
 <!-- Carousel -->
 			<section class="carousel">
-				<div class="reel">
+					<div class="reel">
+				{% for post in site.categories.carousel %}
+				
 
 					<article>
-						<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="/images/{{ post.img }}" alt="" /></a>
 						<header>
-							<h3><a href="#">Pulvinar sagittis congue</a></h3>
+							<h3><a href="#">{{ post.title }}</a></h3>
 						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
+						<p>{{ post.desc }}</p>							
 					</article>
+				{% endfor %}
 				
-					<article>
+					<!--<article>
 						<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Fermentum sagittis proin</a></h3>
@@ -80,7 +83,7 @@
 							<h3><a href="#">Varius magnis sollicitudin</a></h3>
 						</header>
 						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
+					</article>-->
 
 				</div>
 			</section>

@@ -1,0 +1,7 @@
+---
+layout: default
+title: Fermentum sagittis proin
+desc: Commodo id natoque malesuada sollicitudin elit suscipit magna.
+img: pic02.jpg
+categories: carousel
+---
