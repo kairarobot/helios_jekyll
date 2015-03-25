@@ -16,8 +16,10 @@ categories: carousel
 ---
 ```
 
+#### [Requirements](http://jekyllrb.com/docs/installation/)
 
-1. Clone the folder
-2. $ cd into the Helios-Jekyll directory
-3. $ jekyll serve
-4. Check localhost 4000
+* [Ruby](https://www.ruby-lang.org/en/downloads/)
+* [Ruby Gems](https://rubygems.org/pages/download) A note on ruby gems and gh-pages. 
+  If you also want to push your site to gh-pages, make sure you add the [gh-page gem](http://jekyllrb.com/docs/github-pages/). 
+* Linux, Unix, or Mac OS X
+* [NodeJS](https://nodejs.org)

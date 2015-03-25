@@ -1,7 +1,6 @@
 # Site settings
 title: Helios
 url: https://zovfreullia.github.io/Helios-Jekyll/
-source: DIR
 localhost: 4000
 
 # Build settings
