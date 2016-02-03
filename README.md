@@ -1,5 +1,10 @@
 # Helios-Jekyll
 
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/mit-license-brightgreen.svg" alt="mit license"></a>
+<a href="https://www.ruby-lang.org/en/downloads/"><img src="https://img.shields.io/badge/ruby-2.0.0-red.svg" alt="ruby version"></a>
+<img src="https://img.shields.io/badge/platform-osx%20%7C%20linux%20%7C%20unix-lightgrey.svg" alt="versions">
+<a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-1.4.28-yellowgreen.svg"></a>
+
 This is a Jekyll version of the theme Helios: http://html5up.net/helios
 
 You can check the build here: http://zovfreullia.github.io/Helios-Jekyll/
@@ -15,11 +20,3 @@ img: pic01.jpg
 categories: carousel
 ---
 ```
-
-#### [Requirements](http://jekyllrb.com/docs/installation/)
-
-* [Ruby](https://www.ruby-lang.org/en/downloads/)
-* [Ruby Gems](https://rubygems.org/pages/download) A note on ruby gems and gh-pages. 
-  If you also want to push your site to gh-pages, make sure you add the [gh-page gem](http://jekyllrb.com/docs/github-pages/). 
-* Linux, Unix, or Mac OS X
-* [NodeJS](https://nodejs.org)
