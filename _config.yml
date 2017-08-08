@@ -10,8 +10,7 @@ title: Mateo Matiz
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Bla Bla Bla
-baseurl: "Mateo_Helios" # the subpath of your site, e.g. /blog
-url: "https://gwinnen.github.io/"" # the base hostname & protocol for your site
+url: "https://gwinnen.github.io/Mateo_Helios # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  gwinnen
 
