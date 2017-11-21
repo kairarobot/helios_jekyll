@@ -1,13 +1,5 @@
-# Helios Jekyll Version
-
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/mit-license-brightgreen.svg" alt="mit license"></a>
-<a href="https://www.ruby-lang.org/en/downloads/"><img src="https://img.shields.io/badge/ruby-2.0.0-red.svg" alt="ruby version"></a>
-<img src="https://img.shields.io/badge/platform-osx%20%7C%20linux%20%7C%20unix-lightgrey.svg" alt="versions">
-<a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-1.4.28-yellowgreen.svg"></a>
-
-This is a Jekyll version of the theme Helios: http://html5up.net/helios
-
 - __helios_jekyll__
+  - [README.md](helios_jekyll/README.md)
   - [_config.yml](helios_jekyll/_config.yml)
   - ___layouts__
     - [default.html](helios_jekyll/_layouts/default.html)
@@ -25,7 +17,17 @@ This is a Jekyll version of the theme Helios: http://html5up.net/helios
     - [js.html](helios_jekyll/_includes/js.html)
     - [main.html](helios_jekyll/_includes/main.html)
   - ___posts__
+    - [2015-01-01-post1.markdown](helios_jekyll/_posts/2015-01-01-post1.markdown)
+    - [2015-01-02-post2.markdown](helios_jekyll/_posts/2015-01-02-post2.markdown)
+    - [2015-01-03-post3.markdown](helios_jekyll/_posts/2015-01-03-post3.markdown)
     - __carousel__
+      - [2015-02-01-carousel1.markdown](helios_jekyll/_posts/carousel/2015-02-01-carousel1.markdown)
+      - [2015-02-02-carousel2.markdown](helios_jekyll/_posts/carousel/2015-02-02-carousel2.markdown)
+      - [2015-02-03-carousel3.markdown](helios_jekyll/_posts/carousel/2015-02-03-carousel3.markdown)
+      - [2015-02-04-carousel4.markdown](helios_jekyll/_posts/carousel/2015-02-04-carousel4.markdown)
+      - [2015-02-05-carousel5.markdown](helios_jekyll/_posts/carousel/2015-02-05-carousel5.markdown)
+      - [2015-02-06-carousel6.markdown](helios_jekyll/_posts/carousel/2015-02-06-carousel6.markdown)
+      - [2015-02-07-carousel7.markdown](helios_jekyll/_posts/carousel/2015-02-07-carousel7.markdown)
   - __css__
     - [font-awesome.min.css](helios_jekyll/css/font-awesome.min.css)
     - __ie__
@@ -74,18 +76,3 @@ This is a Jekyll version of the theme Helios: http://html5up.net/helios
     - [no-sidebar.html](helios_jekyll/sidebars/no-sidebar.html)
     - [right-sidebar.html](helios_jekyll/sidebars/right-sidebar.html)
 
-
-
-You can check the build here: http://kaira.one/helios_jekyll
-
-Unlike the original theme, users can change the content of the "Post" and "Article" directly under the _post directory. You can add as many posts you want, and you can even change the image by inputting a different file picture. All you have to do is create a new post with the proper file heading: ```YEAR-MM-DD-FILENAME.markdown``` and include this on the header.
-
-```
----
-layout: default
-title: Post 1
-desc: This is a sample post that is added under the "desc" part of the YAML.
-img: pic01.jpg
-categories: carousel
----
-```

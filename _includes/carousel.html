@@ -1,15 +1,15 @@
 <!-- Carousel -->
 <!-- This is where the posts are located -->
-			<section class="carousel">
-					<div class="reel">
-				{% for post in site.categories.carousel %}
-					<article>
-						<a href="#" class="image featured"><img src="images/{{ post.img }}" alt="" /></a>
-						<header>
-							<h3><a href="#">{{ post.title }}</a></h3>
-						</header>
-						<p>{{ post.desc }}</p>							
-					</article>
-				{% endfor %}
-				</div>
-			</section>
+<section class="carousel">
+	<div class="reel">
+		{% for post in site.categories.carousel %}
+		<article>
+			<a href="#" class="image featured"><img src="images/{{ post.img }}" alt="" /></a>
+			<header>
+				<h3><a href="#">{{ post.title }}</a></h3>
+			</header>
+			<p>{{ post.desc }}</p>
+		</article>
+		{% endfor %}
+	</div>
+</section>
