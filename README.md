@@ -61,7 +61,19 @@ This is a Jekyll version of the theme Helios: http://html5up.net/helios
 
 You can check the build here: http://kaira.one/helios_jekyll
 
-Unlike the original theme, users can change the content of the "Post" and "Article" directly under the _post directory. You can add as many posts you want, and you can even change the image by inputting a different file picture. All you have to do is create a new post with the proper file heading: ```YEAR-MM-DD-FILENAME.markdown``` and include this on the header.
+In the original Helios theme, the content is not abstracted. With this Jekyll theme, content can be managed (adding, deleting, or changing) under the `_post` and `carousel` directories. 
+
+<strong>Adding Post Articles</strong>
+The main articles are located above the footer of the page. When a new article is created, the most recent one will show up to the left of the previous articles.
+* To add an article create a new file under `_posts`  
+* Make sure the file name follows this format `2015-01-01-post1.markdown` (```YEAR-MM-DD-FILENAME.markdown```)
+
+
+<strong>Adding Carousel Articles</strong>
+The carousel articles are located below the banner of the page. When a new article is created, the most recent one will show up to the left of the previous articles.
+* To add an article create a new file under `_posts --> carousel`  
+* Make sure the file name follows this format `2015-01-01-post1.markdown` (```YEAR-MM-DD-FILENAME.markdown```)
+* There is also an option of changing the image of the article. The format for the carousel card is shown below:
 
 ```
 ---
