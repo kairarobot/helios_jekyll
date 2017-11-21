@@ -7,6 +7,58 @@
 
 This is a Jekyll version of the theme Helios: http://html5up.net/helios
 
+- __helios_jekyll__
+  - _config.yml
+  - ___layouts__
+    - default.html
+    - style.css
+  - ___includes__
+    - banner.html
+    - carousel.html
+    - __css__
+      - main.css
+      - skel.css
+    - features.html
+    - footer.html
+    - head.html
+    - header.html
+    - js.html
+    - main.html
+  - ___posts__
+    - __carousel__
+  - __css__
+    - font-awesome.min.css
+    - __ie__
+      - PIE.htc
+      - backgroundsize.min.htc
+      - html5shiv.js
+      - v8.css
+    - __images__
+      - arrow.svg
+    - skel.css
+    - style-mobile.css
+    - style-narrower.css
+    - style-normal.css
+    - style-noscript.css
+    - style-wide.css
+    - style.css
+  - __images__
+  - index.html
+  - __js__
+    - init.js
+    - jquery.dropotron.min.js
+    - jquery.min.js
+    - jquery.onvisible.min.js
+    - jquery.scrolly.min.js
+    - skel-layers.min.js
+    - skel.min.js
+  - __sidebars__
+    - left-sidebar.html
+    - no-sidebar.html
+    - right-sidebar.html
+
+
+
 You can check the build here: http://kaira.one/helios_jekyll
 
 Unlike the original theme, users can change the content of the "Post" and "Article" directly under the _post directory. You can add as many posts you want, and you can even change the image by inputting a different file picture. All you have to do is create a new post with the proper file heading: ```YEAR-MM-DD-FILENAME.markdown``` and include this on the header.
