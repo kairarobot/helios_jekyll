@@ -8,54 +8,54 @@
 This is a Jekyll version of the theme Helios: http://html5up.net/helios
 
 - __helios_jekyll__
-  - [_config.yml](helios_jekyll/_config.yml)
+  - _config.yml
   - ___layouts__
-    - [default.html]
-    - [style.css]
+    - default.html
+    - style.css
   - ___includes__
-    - [banner.html]
-    - [carousel.html]
+    - banner.html
+    - carousel.html
     - __css__
-      - [main.css]
-      - [skel.css]
-    - [features.html]
-    - [footer.html]
-    - [head.html]
-    - [header.html]
-    - [js.html]
-    - [main.html]
+      - main.css
+      - skel.css
+    - features.html
+    - footer.html
+    - head.html
+    - header.html
+    - js.html
+    - main.html
   - ___posts__
     - __carousel__
   - __css__
-    - [font-awesome.min.css]
+    - font-awesome.min.css
     - __ie__
-      - [PIE.htc]
-      - [backgroundsize.min.htc]
-      - [html5shiv.js]
-      - [v8.css]
+      - PIE.htc
+      - backgroundsize.min.htc
+      - html5shiv.js
+      - v8.css
     - __images__
-      - [arrow.svg]
-    - [skel.css]
-    - [style-mobile.css]
-    - [style-narrower.css]
-    - [style-normal.css]
-    - [style-noscript.css]
-    - [style-wide.css]
-    - [style.css]
+      - arrow.svg
+    - skel.css
+    - style-mobile.css
+    - style-narrower.css
+    - style-normal.css
+    - style-noscript.css
+    - style-wide.css
+    - style.css
   - __images__
-  - [index.html]
+  - index.html
   - __js__
-    - [init.js]
-    - [jquery.dropotron.min.js]
-    - [jquery.min.js]
-    - [jquery.onvisible.min.js]
-    - [jquery.scrolly.min.js]
-    - [skel-layers.min.js]
-    - [skel.min.js]
+    - init.js
+    - jquery.dropotron.min.js
+    - jquery.min.js
+    - jquery.onvisible.min.js
+    - jquery.scrolly.min.js
+    - skel-layers.min.js
+    - skel.min.js
   - __sidebars__
-    - [left-sidebar.html]
-    - [no-sidebar.html]
-    - [right-sidebar.html]
+    - left-sidebar.html
+    - no-sidebar.html
+    - right-sidebar.html
 
 
 
