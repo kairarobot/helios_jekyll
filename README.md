@@ -44,6 +44,9 @@ This is a Jekyll version of the theme Helios: http://html5up.net/helios
     - style.css
   - __images__
   - index.html
+  - left-sidebar.html
+  - no-sidebar.html
+  - right-sidebar.html
   - __js__
     - init.js
     - jquery.dropotron.min.js
@@ -52,10 +55,7 @@ This is a Jekyll version of the theme Helios: http://html5up.net/helios
     - jquery.scrolly.min.js
     - skel-layers.min.js
     - skel.min.js
-  - __sidebars__
-    - left-sidebar.html
-    - no-sidebar.html
-    - right-sidebar.html
+
 
 
 
