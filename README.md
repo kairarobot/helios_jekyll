@@ -73,7 +73,7 @@ The main articles are located above the footer of the page. When a new article i
 The carousel articles are located below the banner of the page. When a new article is created, the most recent one will show up to the left of the previous articles.
 * To add an article create a new file under `_posts --> carousel`  
 * Make sure the file name follows this format `2015-01-01-post1.markdown` (```YEAR-MM-DD-FILENAME.markdown```)
-* There is also an option of changing the image of the article. The format for the carousel card is shown below:
+* There is also an option for changing the image of the article. The format for the carousel card is shown below:
 
 ```
 ---
