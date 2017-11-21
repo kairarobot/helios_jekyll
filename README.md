@@ -61,7 +61,7 @@ This is a Jekyll version of the theme Helios: http://html5up.net/helios
 
 You can check the build here: http://kaira.one/helios_jekyll
 
-In the original Helios theme, the content is not abstracted. With this Jekyll theme, content can be managed (adding, deleting, or changing) under the `_post` and `carousel` directories. 
+In the original Helios theme, the content is not abstracted. With this Jekyll theme, content can be managed (adding, deleting, or changing) under the `_posts` and `carousel` directories. 
 
 <strong>Adding Post Articles</strong>
 The main articles are located above the footer of the page. When a new article is created, the most recent one will show up to the left of the previous articles.
